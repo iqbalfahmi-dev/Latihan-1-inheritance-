@@ -5,17 +5,17 @@ latihan 1 Mata Kuliah Pemrograman Lanjutan yang membahas tentang inheritance den
 
 berikut instruksi yang diberikan
 
-• Buat super class dengan nama bidangDuaDimensi yang mempunyai atribut nama
-• Buat constructor dari class bidangDuaDimensi
-• Superclass juga mempunyai method info() dan method luas().
-• Method Info() di superclass akan mencetak nilai atribut nama
-• Catatan: Method luas belum di definisikan
-• Buat sub class bujurSangkar yang mempunyai atribut sisi
-• Sub class bujurSangkar adalah sub class dari super class bidangDuaDimensi
-• Buat constructor dari class bujurSangkar
-• Lakukan overriding dari method luas() yang berada di super class
-• Seperti saat membangun sub class bujurSangkar, buat sub class Lingkaran
-• Implementasikan di kelas App
+1. Buat super class dengan nama bidangDuaDimensi yang mempunyai atribut nama
+2. Buat constructor dari class bidangDuaDimensi
+3. Superclass juga mempunyai method info() dan method luas().
+4. Method Info() di superclass akan mencetak nilai atribut nama
+5. Catatan: Method luas belum di definisikan
+6. Buat sub class bujurSangkar yang mempunyai atribut sisi
+7. Sub class bujurSangkar adalah sub class dari super class bidangDuaDimensi
+8. Buat constructor dari class bujurSangkar
+9. Lakukan overriding dari method luas() yang berada di super class
+10. Seperti saat membangun sub class bujurSangkar, buat sub class Lingkaran
+11. Implementasikan di kelas App
 
 lalu untuk cara menjalankan kode ini yaitu :
 
